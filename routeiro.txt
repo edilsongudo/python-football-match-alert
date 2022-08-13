@@ -1,0 +1,10 @@
+1. Explain Rapid API
+2. How to get the teams IDs
+3. How to get the fixtures IDs
+4. Export the fixtures to a json file
+5. Parse the fixture info from the response json
+6. How to calculate how much time to game start
+7. Send SMS or email alerts
+8. Put it all togheter with multiple teams
+8. Work with a scheduler some times per day
+9. Deploy to Cloud
