@@ -1,0 +1,2871 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "season": "2022",
+    "team": "530"
+  },
+  "errors": [],
+  "results": 42,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "fixture": {
+        "id": 869546,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-07-30T11:45:00+00:00",
+        "timestamp": 1659181500,
+        "periods": {
+          "first": 1659181500,
+          "second": 1659185100
+        },
+        "venue": {
+          "id": 11603,
+          "name": "Ullevaal Stadion",
+          "city": "Oslo"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
+        }
+      },
+      "league": {
+        "id": 667,
+        "name": "Friendlies Clubs",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/667.png",
+        "flag": null,
+        "season": 2022,
+        "round": "Club Friendlies 1"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": true
+        },
+        "away": {
+          "id": 33,
+          "name": "Manchester United",
+          "logo": "https://media.api-sports.io/football/teams/33.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 877949,
+        "referee": "Jos\u00e9 S\u00e1nchez",
+        "timezone": "UTC",
+        "date": "2022-08-15T17:30:00+00:00",
+        "timestamp": 1660584600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1476,
+          "name": "Coliseum Alfonso P\u00e9rez",
+          "city": "Getafe"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 546,
+          "name": "Getafe",
+          "logo": "https://media.api-sports.io/football/teams/546.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 877953,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-08-21T17:30:00+00:00",
+        "timestamp": 1661103000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Est\u00e1dio C\u00edvitas Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 877969,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-08-29T20:00:00+00:00",
+        "timestamp": 1661803200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1497,
+          "name": "Estadio de Mestalla",
+          "city": "Valencia"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 3"
+      },
+      "teams": {
+        "home": {
+          "id": 532,
+          "name": "Valencia",
+          "logo": "https://media.api-sports.io/football/teams/532.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 877974,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-09-04T00:00:00+00:00",
+        "timestamp": 1662249600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1491,
+          "name": "Reale Arena",
+          "city": "Donostia-San Sebasti\u00e1n"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 4"
+      },
+      "teams": {
+        "home": {
+          "id": 548,
+          "name": "Real Sociedad",
+          "logo": "https://media.api-sports.io/football/teams/548.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 877982,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-09-11T16:30:00+00:00",
+        "timestamp": 1662913800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 5"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 538,
+          "name": "Celta Vigo",
+          "logo": "https://media.api-sports.io/football/teams/538.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 877993,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-09-18T00:00:00+00:00",
+        "timestamp": 1663459200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 6"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 541,
+          "name": "Real Madrid",
+          "logo": "https://media.api-sports.io/football/teams/541.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878006,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-02T00:00:00+00:00",
+        "timestamp": 1664668800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1494,
+          "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+          "city": "Sevilla"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 7"
+      },
+      "teams": {
+        "home": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878012,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-09T00:00:00+00:00",
+        "timestamp": 1665273600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 8"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878022,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-16T00:00:00+00:00",
+        "timestamp": 1665878400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1460,
+          "name": "San Mam\u00e9s Barria",
+          "city": "Bilbao"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 9"
+      },
+      "teams": {
+        "home": {
+          "id": 531,
+          "name": "Athletic Club",
+          "logo": "https://media.api-sports.io/football/teams/531.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878032,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-19T00:00:00+00:00",
+        "timestamp": 1666137600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 10"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 728,
+          "name": "Rayo Vallecano",
+          "logo": "https://media.api-sports.io/football/teams/728.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878046,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-23T00:00:00+00:00",
+        "timestamp": 1666483200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1489,
+          "name": "Estadio Benito Villamar\u00edn",
+          "city": "Sevilla"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 11"
+      },
+      "teams": {
+        "home": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878056,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-30T00:00:00+00:00",
+        "timestamp": 1667088000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 11915,
+          "name": "Estadio Nuevo Mirandilla",
+          "city": "C\u00e1diz"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 12"
+      },
+      "teams": {
+        "home": {
+          "id": 724,
+          "name": "Cadiz",
+          "logo": "https://media.api-sports.io/football/teams/724.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878062,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-11-06T00:00:00+00:00",
+        "timestamp": 1667692800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 13"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 540,
+          "name": "Espanyol",
+          "logo": "https://media.api-sports.io/football/teams/540.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878076,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-11-09T00:00:00+00:00",
+        "timestamp": 1667952000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 12597,
+          "name": "Visit Mallorca Estadi",
+          "city": "Palma de Mallorca"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 14"
+      },
+      "teams": {
+        "home": {
+          "id": 798,
+          "name": "Mallorca",
+          "logo": "https://media.api-sports.io/football/teams/798.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878082,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-12-31T00:00:00+00:00",
+        "timestamp": 1672444800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 15"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 797,
+          "name": "Elche",
+          "logo": "https://media.api-sports.io/football/teams/797.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878093,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-01-08T00:00:00+00:00",
+        "timestamp": 1673136000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 16"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878105,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-01-14T00:00:00+00:00",
+        "timestamp": 1673654400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1459,
+          "name": "Estadio de los Juegos Mediterr\u00e1neos",
+          "city": "Almer\u00eda"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 17"
+      },
+      "teams": {
+        "home": {
+          "id": 723,
+          "name": "Almeria",
+          "logo": "https://media.api-sports.io/football/teams/723.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878113,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-01-22T00:00:00+00:00",
+        "timestamp": 1674345600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 18"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 720,
+          "name": "Valladolid",
+          "logo": "https://media.api-sports.io/football/teams/720.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878126,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-01-29T00:00:00+00:00",
+        "timestamp": 1674950400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1486,
+          "name": "Estadio El Sadar",
+          "city": "Iru\u00f1ea"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 19"
+      },
+      "teams": {
+        "home": {
+          "id": 727,
+          "name": "Osasuna",
+          "logo": "https://media.api-sports.io/football/teams/727.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878133,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-02-05T00:00:00+00:00",
+        "timestamp": 1675555200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 20"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 546,
+          "name": "Getafe",
+          "logo": "https://media.api-sports.io/football/teams/546.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878147,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-02-12T00:00:00+00:00",
+        "timestamp": 1676160000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1467,
+          "name": "Abanca-Bala\u00eddos",
+          "city": "Vigo"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 21"
+      },
+      "teams": {
+        "home": {
+          "id": 538,
+          "name": "Celta Vigo",
+          "logo": "https://media.api-sports.io/football/teams/538.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878159,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-02-19T00:00:00+00:00",
+        "timestamp": 1676764800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 22"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 531,
+          "name": "Athletic Club",
+          "logo": "https://media.api-sports.io/football/teams/531.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878167,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-02-26T00:00:00+00:00",
+        "timestamp": 1677369600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1456,
+          "name": "Estadio Santiago Bernab\u00e9u",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 541,
+          "name": "Real Madrid",
+          "logo": "https://media.api-sports.io/football/teams/541.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878172,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-03-05T00:00:00+00:00",
+        "timestamp": 1677974400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 24"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878187,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-03-12T00:00:00+00:00",
+        "timestamp": 1678579200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1478,
+          "name": "Estadi Municipal de Montilivi",
+          "city": "Girona"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 25"
+      },
+      "teams": {
+        "home": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878192,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-03-19T00:00:00+00:00",
+        "timestamp": 1679184000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 532,
+          "name": "Valencia",
+          "logo": "https://media.api-sports.io/football/teams/532.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878203,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-04-02T00:00:00+00:00",
+        "timestamp": 1680393600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 27"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878217,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-04-09T00:00:00+00:00",
+        "timestamp": 1680998400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1488,
+          "name": "Estadio de Vallecas",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 28"
+      },
+      "teams": {
+        "home": {
+          "id": 728,
+          "name": "Rayo Vallecano",
+          "logo": "https://media.api-sports.io/football/teams/728.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878231,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-04-16T00:00:00+00:00",
+        "timestamp": 1681603200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 723,
+          "name": "Almeria",
+          "logo": "https://media.api-sports.io/football/teams/723.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878235,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-04-23T00:00:00+00:00",
+        "timestamp": 1682208000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1462,
+          "name": "Camp Nou",
+          "city": "Barcelona"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 30"
+      },
+      "teams": {
+        "home": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878243,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-04-26T00:00:00+00:00",
+        "timestamp": 1682467200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 31"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 798,
+          "name": "Mallorca",
+          "logo": "https://media.api-sports.io/football/teams/798.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878258,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-04-30T00:00:00+00:00",
+        "timestamp": 1682812800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1492,
+          "name": "Estadio Municipal Jos\u00e9 Zorrilla",
+          "city": "Valladolid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 32"
+      },
+      "teams": {
+        "home": {
+          "id": 720,
+          "name": "Valladolid",
+          "logo": "https://media.api-sports.io/football/teams/720.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878263,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-03T00:00:00+00:00",
+        "timestamp": 1683072000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 33"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 724,
+          "name": "Cadiz",
+          "logo": "https://media.api-sports.io/football/teams/724.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878275,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-14T00:00:00+00:00",
+        "timestamp": 1684022400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1473,
+          "name": "Estadio Manuel Mart\u00ednez Valero",
+          "city": "Elche"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 34"
+      },
+      "teams": {
+        "home": {
+          "id": 797,
+          "name": "Elche",
+          "logo": "https://media.api-sports.io/football/teams/797.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878283,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-21T00:00:00+00:00",
+        "timestamp": 1684627200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 35"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 727,
+          "name": "Osasuna",
+          "logo": "https://media.api-sports.io/football/teams/727.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878297,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-24T00:00:00+00:00",
+        "timestamp": 1684886400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1474,
+          "name": "RCDE Stadium",
+          "city": "Cornella de Llobregat"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 36"
+      },
+      "teams": {
+        "home": {
+          "id": 540,
+          "name": "Espanyol",
+          "logo": "https://media.api-sports.io/football/teams/540.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878303,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-28T00:00:00+00:00",
+        "timestamp": 1685232000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 37"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 548,
+          "name": "Real Sociedad",
+          "logo": "https://media.api-sports.io/football/teams/548.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 878316,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-06-04T00:00:00+00:00",
+        "timestamp": 1685836800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1498,
+          "name": "Estadio de la Cer\u00e1mica",
+          "city": "Villarreal"
+        },
+        "status": {
+          "long": "Time to be defined",
+          "short": "TBD",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "round": "Regular Season - 38"
+      },
+      "teams": {
+        "home": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png",
+          "winner": null
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 922137,
+        "referee": "Eder Mallo",
+        "timezone": "UTC",
+        "date": "2022-07-27T17:00:00+00:00",
+        "timestamp": 1658941200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Municipal de El Burgo de Osma",
+          "city": "El Burgo de Osma"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
+        }
+      },
+      "league": {
+        "id": 667,
+        "name": "Friendlies Clubs",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/667.png",
+        "flag": null,
+        "season": 2022,
+        "round": "Club Friendlies 1"
+      },
+      "teams": {
+        "home": {
+          "id": 717,
+          "name": "Numancia",
+          "logo": "https://media.api-sports.io/football/teams/717.png",
+          "winner": false
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 3
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 922139,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-08-07T16:00:00+00:00",
+        "timestamp": 1659888000,
+        "periods": {
+          "first": 1659888000,
+          "second": 1659891600
+        },
+        "venue": {
+          "id": null,
+          "name": "Bloomfield Stadium",
+          "city": "Tel-Aviv"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
+        }
+      },
+      "league": {
+        "id": 667,
+        "name": "Friendlies Clubs",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/667.png",
+        "flag": null,
+        "season": 2022,
+        "round": "Club Friendlies 1"
+      },
+      "teams": {
+        "home": {
+          "id": 496,
+          "name": "Juventus",
+          "logo": "https://media.api-sports.io/football/teams/496.png",
+          "winner": false
+        },
+        "away": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 923058,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-07-30T11:45:00+00:00",
+        "timestamp": 1659181500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 667,
+        "name": "Friendlies Clubs",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/667.png",
+        "flag": null,
+        "season": 2022,
+        "round": "Club Friendlies 5"
+      },
+      "teams": {
+        "home": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png",
+          "winner": null
+        },
+        "away": {
+          "id": 33,
+          "name": "Manchester United",
+          "logo": "https://media.api-sports.io/football/teams/33.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}
