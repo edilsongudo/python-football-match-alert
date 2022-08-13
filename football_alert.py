@@ -88,7 +88,7 @@ def main():
         for fixture in fixtures:
             date = fixture['fixture']['date']
             minutes = int(get_how_many_minutes_remaing(date))
-            if minutes > 0 and minutes <= 1600:
+            if minutes >= -60 and minutes <= 60:
                 home = fixture['teams']['home']['name']
                 away = fixture['teams']['away']['name']
                 body = f"""Hi, Edilson,
